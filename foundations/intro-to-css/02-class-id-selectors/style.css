@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.oddNumber{
+    background-color: pink;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+#number4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.cooler{
+    font-size: 42px;
+    font-family: 'Courier New', Courier, monospace;
+}
